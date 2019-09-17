@@ -13,4 +13,4 @@ end
 def assign_room(array)
   new_array=[]
   counter = 1 
-  
+  array.
