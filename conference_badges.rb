@@ -1,5 +1,5 @@
 def badge_make(name)
   name = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
-  puts "Hello, my name is #{name}."
+  puts "Hello, my name is #{name.each}."
 end
 
