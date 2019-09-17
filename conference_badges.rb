@@ -1,6 +1,6 @@
-def badge_make(array)
-  array = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
-  puts "Hello, my name is #{name}."
+def badge_make(names)
+  names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
+  puts "Hello, my name is #{names}."
 end
 
 array 
