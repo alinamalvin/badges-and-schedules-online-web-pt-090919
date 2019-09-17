@@ -3,4 +3,3 @@ def badge_make(names)
   puts "Hello, my name is #{names}."
 end
 
-array 
